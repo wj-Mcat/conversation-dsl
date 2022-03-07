@@ -4,7 +4,7 @@ the conversation program language which make it easier to write logic code with 
 
 ## 
 
-昨天[Huan](www.github.com/huan)在群里面分享了如下的对话流程设计语言，具体案例如下所示：
+昨天[Huan](https://www.github.com/huan)在群里面分享了如下的对话流程设计语言，具体案例如下所示：
 
 [![](./assets/image/csml.png)](https://www.csml.dev/)
 
